@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterrecrypt",
+        "uuid": 17983394,
+        "checksum": "c1n9og"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
